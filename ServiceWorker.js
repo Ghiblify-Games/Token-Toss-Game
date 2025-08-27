@@ -1,4 +1,4 @@
-const cacheName = "Ghiblify Games-Token Toss-1.0.32";
+const cacheName = "Ghiblify Games-Token Toss-1.0.36";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js",
