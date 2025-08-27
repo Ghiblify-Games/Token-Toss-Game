@@ -1,9 +1,9 @@
 const cacheName = "Ghiblify Games-Token Toss-1.0.36";
 const contentToCache = [
-    "Build/WebGL.loader.js",
-    "Build/WebGL.framework.js",
-    "Build/WebGL.data",
-    "Build/WebGL.wasm",
+    "Build/wEBgl3.loader.js",
+    "Build/wEBgl3.framework.js",
+    "Build/wEBgl3.data",
+    "Build/wEBgl3.wasm",
     "TemplateData/style.css"
 
 ];
